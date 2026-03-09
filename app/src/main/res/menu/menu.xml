@@ -1,0 +1,77 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_setting"
+        android:title="Read Paper"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_prothomalo"
+        android:title="Prothom Alo"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_kalerkontho"
+        android:title="Kaler Kontho"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_dailystar"
+        android:title="Daily Star"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_jugantor"
+        android:title="Jugantor"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_bdpratidin"
+        android:title="Bangladesh Pratidin"
+        app:showAsAction="never"/>
+
+    <!-- Additional 10 newspapers -->
+    <item
+        android:id="@+id/action_independent"
+        android:title="The Independent"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_newage"
+        android:title="New Age"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_financialexpress"
+        android:title="Financial Express"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_observer"
+        android:title="The Daily Observer"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_manabzamin"
+        android:title="Manab Zamin"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_samakal"
+        android:title="Samakal"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_amadershomoy"
+        android:title="Amader Shomoy"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_bdtoday"
+        android:title="Bangladesh Today"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_dhakattribune"
+        android:title="Dhaka Tribune"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_businessstandard"
+        android:title="The Business Standard"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_ittefaq"
+        android:title="Ittefaq"
+        app:showAsAction="never"/>
+
+</menu>
