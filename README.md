@@ -20,13 +20,9 @@ The application is built on a standard Model-View-Controller architecture. It ma
 ### Screenshots
 The following images represent the primary user interface and the newspaper selection menu.
 
-![Main View](
+Main View
 <img width="198" height="259" alt="Image" src="https://github.com/user-attachments/assets/7f445279-0485-477f-b3d5-bf37f2b96508" />
 *Figure 1: Main news viewing interface.*
-
-![Menu View](
-<img width="1" height="259" alt="Image" src="https://github.com/user-attachments/assets/7f445279-0485-477f-b3d5-bf37f2b96508" />
-*Figure 2: Selection menu for newspaper sources.*
 
 ### Operation Video
 A recorded demonstration of the application's navigation flow and site switching capabilities can be viewed here:
