@@ -20,9 +20,12 @@ The application is built on a standard Model-View-Controller architecture. It ma
 ### Screenshots
 The following images represent the primary user interface and the newspaper selection menu.
 
-Main View
-<img width="198" height="259" alt="Image" src="https://github.com/user-attachments/assets/7f445279-0485-477f-b3d5-bf37f2b96508" />
-*Figure 1: Main news viewing interface.*
+---
+
+### Main View
+<img width="88" height="129" alt="Image" src="https://github.com/user-attachments/assets/7f445279-0485-477f-b3d5-bf37f2b96508" />
+
+
 
 ### Operation Video
 A recorded demonstration of the application's navigation flow and site switching capabilities can be viewed here:
@@ -56,6 +59,8 @@ The system overrides `onBackPressed()` to ensure the web history is prioritized 
 1. Import the project into Android Studio.
 2. Verify `INTERNET` permission in the Manifest.
 3. Build the APK or run via ADB on a physical device.
+###  Download link 
+
 
 ## Author
 [Rahul Singha]
